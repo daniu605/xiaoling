@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.log
+logs/
+
+# Node
+node_modules/
+dist/
+
+# Docker（本仓库仅包含前后端代码，中间件配置不上传）
+docker/
+
+# IDE / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
